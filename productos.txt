@@ -1,0 +1,9 @@
+1;producto1;200;50
+2;producto2;300;40
+3;producto3;400;30
+4;producto4;500;20
+5;producto5;600;10
+6;producto6;700;20
+7;producto7;800;90
+8;producto8;900;80
+9;producto9;200;20
